@@ -10,7 +10,7 @@
         "tomoki1207.pdf",
         "vsls-contrib.gitdoc"
     ],
-    "image": "dokken/ubuntu-20.04",
+    "image": "ddosify/ddosify",
     "runArgs": ["--privileged"],
     "postCreateCommand": "/opt/cs50/bin/postCreateCommand",
     "settings": {
